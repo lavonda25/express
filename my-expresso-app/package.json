@@ -1,0 +1,12 @@
+{
+  "name": "my-expresso-app",
+  "version": "1.0.0",
+  "description": "Furniture design web app with Express and working-hours middleware",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
